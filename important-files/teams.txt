@@ -1,0 +1,71 @@
+Name: Spark
+ID: 1
+Parent ID: None
+
+Name: LookLook
+ID: 2
+Parent ID: 1
+
+Name: Thibault
+ID: 4
+Parent ID: 1
+
+Name: CHANEL Global
+ID: 6
+Parent ID: 2
+
+Name: L'Oreal 
+ID: 7
+Parent ID: 2
+
+Name: Mondelez
+ID: 8
+Parent ID: 2
+
+Name: Aramark Health Care
+ID: 9
+Parent ID: 2
+
+Name: _Testing
+ID: 10
+Parent ID: 1
+
+Name: Lululemon
+ID: 14
+Parent ID: 2
+
+Name: Aramark Business Dining
+ID: 15
+Parent ID: 2
+
+Name: Yuzu Kyodai
+ID: 16
+Parent ID: 2
+
+Name: Aramark Higher Education
+ID: 20
+Parent ID: 2
+
+Name: Spark Proprietary Studies
+ID: 24
+Parent ID: 2
+
+Name: CHANEL U.S.
+ID: 25
+Parent ID: 2
+
+Name: Board of Innovation
+ID: 26
+Parent ID: 2
+
+Name: Lucky Generals
+ID: 27
+Parent ID: 2
+
+Name: Harris Insights
+ID: 28
+Parent ID: 2
+
+Name: HumanCo
+ID: 29
+Parent ID: 2
